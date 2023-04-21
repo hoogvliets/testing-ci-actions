@@ -117,4 +117,3 @@ jobs:
         run: |
           docker build . -t plaklot
             --build-arg PIP_EXTRA_INDEX_URL
-           
